@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperdpdate",
+        "uuid": 5494410,
+        "checksum": "0psphi"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
